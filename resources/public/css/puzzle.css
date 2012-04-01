@@ -1,0 +1,25 @@
+table.sudoku {
+    empty-cells: show;
+    border-width: 3px;
+    border-spacing: 0px;
+    border-style: outset;
+    border-color: black;
+    border-collapse: collapse;
+    background-color: white;
+}
+table.sudoku th {
+    border-width: 1px;
+    border-collapse: collapse;
+    padding: 1px;
+    border-style: inset;
+    border-color: black;
+    background-color: white;
+}
+table.sudoku td {
+    border-width: 1px;
+    border-collapse: collapse;
+    padding: 1px;
+    border-style: inset;
+    border-color: black;
+    background-color: white;
+}
