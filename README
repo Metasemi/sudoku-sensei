@@ -1,0 +1,12 @@
+sudoku-sensei: A sudoku solver that teaches.
+
+Copyright (c) 2012 Daniel Brotsky.  All rights reserved.
+
+Distributed under the Eclipse Public License, the same as Clojure.
+This project uses the noir framework for website.
+
+USAGE
+
+# cd sudoku-sensei
+lein deps
+lein run
